@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **garde.russ@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/4/folders/12CGtEApkelOQsK6pCmaQp0dH4yAqbPYo](https://drive.google.com/drive/u/4/folders/12CGtEApkelOQsK6pCmaQp0dH4yAqbPYo)
+- 📄 Know about my experiences [on my resume!](https://drive.google.com/file/d/1ML4-O-4wAZi1pDy1lbqmY4zdrAWLZbTj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russgards03&show_icons=true&locale=en" alt="russgards03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russgards03&" alt="russgards03" /></p>
 
