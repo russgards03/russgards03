@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Russ</h1>
+<h1 align="center">Hi 👋, My name is Russ!</h1>
 <h3 align="center">Working on being a proficient backend developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russgards03&label=Profile%20views&color=0e75b6&style=flat" alt="russgards03" /> </p>
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/russ allen garde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="russ allen garde" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/russ allen garde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="russ allen garde" height="30" width="40" /></a>
-<a href="https://fb.com/russ allen garde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="russ allen garde" height="30" width="40" /></a>
-<a href="https://instagram.com/russ_gardss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="russ_gardss" height="30" width="40" /></a>
+<a href="https://x.com/russ_gardss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="russ allen garde" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/russ-allen-garde-57325727a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="russ allen garde" height="30" width="40" /></a>
+<a href="https://www.facebook.com/russ.gards" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="russ allen garde" height="30" width="40" /></a>
+<a href="https://www.instagram.com/russ_gardss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="russ_gardss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
