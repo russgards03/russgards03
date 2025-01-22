@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Firebase, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://gardev.webflow.io](https://gardev.webflow.io)
+- 👨‍💻 All of my projects are available at [my website!](https://gardev.webflow.io)
 
 - 📫 How to reach me **garde.russ@gmail.com**
 
-- 📄 Know about my experiences [on my resume!](https://drive.google.com/file/d/1ML4-O-4wAZi1pDy1lbqmY4zdrAWLZbTj/view?usp=drive_link)
+- 📄 Know more about my experiences [here!](https://drive.google.com/file/d/1ML4-O-4wAZi1pDy1lbqmY4zdrAWLZbTj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
