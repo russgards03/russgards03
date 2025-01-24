@@ -21,10 +21,13 @@
 <a href="https://www.instagram.com/russ_gardss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="russ_gardss" height="30" width="40" /></a>
 </p>
 
+### Skills
 [![Skills:](https://skillicons.dev/icons?i=dart,flutter,html,java,js,mysql,php)](https://skillicons.dev)
 
+### Tools
 [![Tools:](https://skillicons.dev/icons?i=discord,figma,github,postman,vscode)](https://skillicons.dev)
 
+### Currently Studying
 [![Currently Studying:](https://skillicons.dev/icons?i=firebase,laravel,tailwind,ps,webflow&perline=3)](https://skillicons.dev) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=russgards03&show_icons=true&locale=en&layout=compact" alt="russgards03" /></p>
