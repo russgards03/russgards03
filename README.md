@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a mobile scheduling system.](https://github.com/russgards03/careshift_mobile)
 
-- 🌱 I’m currently learning **Firebase, JavaScript**
+- 🌱 I’m currently learning **Firebase, Laravel**
 
 - 👨‍💻 All of my projects are available at [my website!](https://rgarde.webflow.io)
 
