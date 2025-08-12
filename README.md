@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Russ!</h1>
-<h3 align="center">Working on being a proficient backend developer!</h3>
+<h3 align="center">Working on being a proficient full-stack developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russgards03&label=Profile%20views&color=0e75b6&style=flat" alt="russgards03" /> </p>
 
