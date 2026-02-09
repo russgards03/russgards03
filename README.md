@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russgards03&label=Profile%20views&color=0e75b6&style=flat" alt="russgards03" /> </p>
 
-- 🔭 I’m currently working on [a mobile scheduling system.](https://github.com/russgards03/careshift_mobile)
+- 🔭 I’m currently working on [a gym membership admin-side application.](https://github.com/russgards03/pound4pound)
 
-- 🌱 I’m currently learning **Firebase, Laravel**
+- 🌱 I’m currently learning **Oracle PeopleSoft**
 
 - 👨‍💻 All of my projects are available at [my website!](https://gardev.vercel.app)
 
