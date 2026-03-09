@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my website!](https://gardev.vercel.app)
 
-- 📫 How to reach me **garde.russ@gmail.com**
+- 📫 Email me at **garde.russ@gmail.com**!
 
 - 📄 Know more about my experiences [here!](https://drive.google.com/file/d/1ML4-O-4wAZi1pDy1lbqmY4zdrAWLZbTj/view?usp=drive_link)
 
